@@ -1,0 +1,6 @@
+Flask
+redis
+numpy
+selenium
+pyvirtualdisplay
+
