@@ -3,4 +3,5 @@ redis==2.10.5
 numpy==1.8.2
 selenium==2.50.0
 PyVirtualDisplay==0.1.5
+beautifulsoup4==4.3.2
 

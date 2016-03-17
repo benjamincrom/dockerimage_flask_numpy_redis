@@ -3,4 +3,5 @@ redis
 numpy
 selenium
 PyVirtualDisplay
+beautifulsoup4
 
